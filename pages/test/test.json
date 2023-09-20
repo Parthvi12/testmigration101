@@ -29,7 +29,6 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "test_Query2",
               "name": "Query2",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
